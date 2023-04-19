@@ -125,6 +125,7 @@ span{
 .left{
     float:left;
     width: 100px;
+    height: 200px;
 }
 .right{
     float: right;
@@ -132,6 +133,25 @@ span{
 .contaneir{
     height: 200px;
 }
+.column{
+    
+    margin: 0  ;
+    padding: 10px 0;
+    width: 33.3%;
+}
+.center{
+    padding: 50px 0;
+    text-align:center ;
+    width: 200px;
+    margin: 0 auto;
+    background-color: rgb(33, 39, 66);
+}
+.inline-block{
+    display:inline-block;
+    height: 55px;
+    background-color: red;
+}
+
 
 
     
